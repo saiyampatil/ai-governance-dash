@@ -8,7 +8,7 @@ A one-screen prototype for a product-management take-home. It shows how a compan
 
 Open `index.html` in a browser. There is nothing to install and no internet connection is needed.
 
-Live version: _add your Netlify link here_
+Live version: https://saiyampatil.github.io/ai-governance-dash/
 
 ## What is on the screen
 
