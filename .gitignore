@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# local screenshots (kept out of the repo to keep it light)
+images/
